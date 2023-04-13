@@ -1,4 +1,4 @@
-f = open("txt4.txt","r")
+f = open("d4.txt","r")
 
 l = []
 

@@ -1,4 +1,4 @@
-f = open("txt1.txt","r")
+f = open("d2.txt","r")
 l = []
 while True:
     line = f.readline()

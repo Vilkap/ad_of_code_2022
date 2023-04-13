@@ -1,4 +1,4 @@
-f = open("txt6.txt","r")
+f = open("d6.txt","r")
 
 s = ""
 

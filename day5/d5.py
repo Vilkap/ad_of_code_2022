@@ -1,4 +1,4 @@
-f = open("txt5.txt","r")
+f = open("d5.txt","r")
 l = []
 
 while True:

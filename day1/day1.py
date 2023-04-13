@@ -1,4 +1,4 @@
-f = open("text.txt","r")
+f = open("d1.txt","r")
 l = []
 l2 = []
 while True:
